@@ -1,0 +1,23 @@
+# AI Models (large files)
+models/
+*.safetensors
+*.bin
+
+# Mac specific
+.DS_Store
+
+# Virtual environment
+venv/
+env/
+
+# Cache
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
+
+# Gradio cache
+gradio_cached_examples/
