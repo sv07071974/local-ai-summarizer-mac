@@ -10,7 +10,7 @@
 
 > Transform long articles into concise summaries using AI that runs entirely on your Mac. No cloud dependencies, no API costs, complete privacy.
 
-![AI Summarizer Demo](assets/interface-demo.png)
+
 
 ## ✨ Features
 
