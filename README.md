@@ -245,7 +245,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-<div align="center">
+<div<img width="1182" height="1064" alt="Screenshot 2025-09-02 at 11 24 02 PM" src="https://github.com/user-attachments/assets/2a80fa5a-0a22-4756-9a76-b12c32840e07" />
+ align="center">
 
 **🚀 If this project helped you, please give it a ⭐ star!**
 
