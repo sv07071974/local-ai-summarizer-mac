@@ -1,0 +1,29 @@
+local-ai-summarizer-mac/
+│
+├── README.md                 # Main documentation
+├── requirements.txt          # Python dependencies
+├── .gitignore               # Files to ignore
+├── LICENSE                  # MIT License
+│
+├── src/                     # Source code
+│   ├── __init__.py
+│   ├── summarizer.py        # Core AI logic
+│   └── web_app.py          # Gradio web interface
+│
+├── assets/                  # Images and screenshots
+│   ├── interface-demo.png
+│   ├── terminal-output.png
+│   └── architecture.png
+│
+├── examples/               # Sample texts to try
+│   ├── sample-articles.json
+│   └── test-summaries.md
+│
+├── docs/                   # Additional documentation
+│   ├── installation.md
+│   ├── troubleshooting.md
+│   └── api-reference.md
+│
+└── scripts/               # Utility scripts
+    ├── setup.sh          # Automated setup
+    └── test.py          # Test script
