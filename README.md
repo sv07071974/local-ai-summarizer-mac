@@ -58,7 +58,6 @@ python src/web_app.py
 ### 4. Open in Browser
 The interface will automatically open at `http://127.0.0.1:7860`
 
-![Terminal Output](assets/terminal-output.png)
 
 ## 📋 Manual Installation
 
@@ -102,11 +101,6 @@ print(summary)
 3. **Choose Style** - Very Brief, Brief, Moderate, Detailed
 4. **Generate Summary** - Get results in seconds
 
-## 🎨 Interface Preview
-
-| Input | Output |
-|-------|--------|
-| ![Input Interface](assets/input-interface.png) | ![Output Interface](assets/output-interface.png) |
 
 ## 🛠️ Technical Details
 
